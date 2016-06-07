@@ -11,6 +11,7 @@ A place to record the location of transport data in New Zealand, from any source
 - Accident locations
 - Statistics on driver licensing
 - Journey planners
+- Resource consents (e.g. minimum parking policies)
 
 ... and many more!
 
@@ -55,6 +56,19 @@ If you notice a dead link, an issue will be good for that, too. Otherwise, conta
 - [Real-time PT](https://www.metlink.org.nz/#realtime)
 - [PT service alerts](https://www.metlink.org.nz/service-updates/)
 - [Journey planner](https://www.metlink.org.nz/#plan)
+
+# Metroinfo (Christchurch)
+
+- [Developer portal](http://www.metroinfo.co.nz/Pages/developer-resource.aspx)
+  - GTFS (via ECan)
+
+# Environment Canterbury (ECan)
+  - [Catalogue](http://data.ecan.govt.nz/Catalogue/)
+    - Colour aerial photography
+    - Harbours
+    - Natural Resources planning maps
+    - Resource consents
+    - Air quality
 
 # Global GTFS providers
 - [GTFS Data Exchange](http://www.gtfs-data-exchange.com/)
